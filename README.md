@@ -1,7 +1,7 @@
 
 # Random Art Line Generator
 
-A random project, I got bored and just wanted to make something completely random. I know this program doesn't work necessarily well, it was more for entertainment :)
+A random project, and very basic. I got bored and just wanted to make something completely random. I know this program doesn't work necessarily well, it was more for entertainment :)
 
 
 
